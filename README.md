@@ -12,17 +12,21 @@ The goal is to solve 1–2 problems every day and continuously improve problem-s
 ---
 
 ## 📂 Project Structure
+```
 coding-test/
-┣ README.md
-┣ .gitignore
-┗ src/
-┗ practice/
-┣ basic/ ← Implementation, String, Stack, Queue
-┣ bfs/ ← BFS / DFS problems
-┣ greedy/ ← Greedy & Binary Search
-┣ dp/ ← Dynamic Programming
-┣ backtracking/ ← Backtracking
-┗ Main.java
+ ┣ README.md
+ ┣ .gitignore
+ ┗ src/
+    ┗ main/
+       ┗ java/
+          ┗ practice/
+              ┣ basic/
+              ┣ bfs/
+              ┣ greedy/
+              ┣ dp/
+              ┣ backtracking/
+              ┗ Main.java
+```
 
 
 ---
