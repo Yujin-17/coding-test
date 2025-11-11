@@ -17,13 +17,13 @@ coding-test/
  ┣ README.md
  ┣ .gitignore
  ┗ src/
-      ┗ practice/
-           ┣ basic/
-           ┣ bfs/
-           ┣ greedy/
-           ┣ dp/
-           ┣ backtracking/
-           ┗ Main.java
+    ┗ practice/
+         ┣ basic/
+         ┣ bfs/
+         ┣ greedy/
+         ┣ dp/
+         ┣ backtracking/
+         ┗ Main.java
 ```
 
 
