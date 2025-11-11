@@ -1,0 +1,57 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+### Build ###
+build/
+target/
+
+### Logs ###
+*.log
+*.tmp
+*.bak
+
+### OS / System ###
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### JetBrains Copilot ###
+copilot*.xml
+
+### Custom (Yujin's local settings) ###
+# IntelliJ 코테 세션 저장, 로컬 테스트 파일
+*.env
+input.txt
