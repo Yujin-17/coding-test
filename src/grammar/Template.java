@@ -1,4 +1,4 @@
-package practice.grammar;
+package grammar;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package practice.grammar.dataStructure;
+package grammar.dataStructure;
 
 
 import java.io.BufferedReader;
