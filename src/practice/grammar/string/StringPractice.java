@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 연습 10: String 필수 메서드
+ */
 public class StringPractice {
 
     public static void main(String[] args) throws IOException {

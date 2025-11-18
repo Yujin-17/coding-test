@@ -8,6 +8,8 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 /**
+ * 연습 6: Stack 기본
+ *
  * 📚 자료구조 - Stack
  * Stack = 접시 쌓기 (LIFO: Last In First Out)
  * 마지막에 넣은 게 먼저 나와요!

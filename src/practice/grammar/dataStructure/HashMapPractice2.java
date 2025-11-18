@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 연습 5: HashMap으로 빈도수 세기 (초중요!)
+ */
 public class HashMapPractice2 {
 
     /**
@@ -51,6 +54,11 @@ public class HashMapPractice2 {
         sb.append(maxWord).append(": ").append(maxCount).append("번\n");
 
         // Entry로 순회하기 (더 효율적)
+        /**
+         * Entry란?
+         * Entry = HashMap의 한 쌍 (Key + Value를 묶은 것)
+         * → 한 번에 Key와 Value를 함께 가져옴 (빠름)
+         */
         sb.append("\n=== Entry로 순회 ===\n");
         for (Map.Entry<String, Integer> entry : frequency.entrySet()) {
             sb.append(entry.getKey()).append(": ").append(entry.getValue()).append("번\n");

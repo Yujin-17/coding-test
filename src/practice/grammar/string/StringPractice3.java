@@ -4,15 +4,15 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 연습 12: String vs StringBuilder (성능 차이!)
+ * 핵심:
+ *
+ * String: 불변 (immutable) → 변경할 때마다 새 객체 생성
+ * StringBuilder: 가변 (mutable) → 기존 객체 수정
+ */
 public class StringPractice3 {
 
-    /**
-     * 연습 12: String vs StringBuilder (성능 차이!)
-     * 핵심:
-     *
-     * String: 불변 (immutable) → 변경할 때마다 새 객체 생성
-     * StringBuilder: 가변 (mutable) → 기존 객체 수정
-     */
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

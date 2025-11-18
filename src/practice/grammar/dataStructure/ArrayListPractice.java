@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 /*
+ * 연습 1: ArrayList 기본
  * ArrayList가 배열보다 좋은 이유?
  * * 크기 자동 조절
  * * 추가/삭제 쉬움

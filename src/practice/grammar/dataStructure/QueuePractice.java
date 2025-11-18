@@ -8,6 +8,8 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
+ * 연습 8: Queue 기본
+ *
  * 📚 자료구조 - Queue
  * Queue = 줄서기 (FIFO: First In First Out)
  * 먼저 들어간 게 먼저 나와요!

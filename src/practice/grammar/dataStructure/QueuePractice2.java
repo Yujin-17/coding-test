@@ -7,6 +7,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
+ * 연습 9: Queue로 프린터 시뮬레이션
+ *
  * Queue의 실전 활용 - 프린터 대기열!
  */
 public class QueuePractice2 {

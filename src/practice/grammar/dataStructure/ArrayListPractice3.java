@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
+/**
+ * 연습 3: 2차원 ArrayList (그래프, 행렬 문제 필수!)
+ */
 public class ArrayListPractice3 {
 
     public static void main(String[] args) throws IOException {

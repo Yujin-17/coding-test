@@ -5,6 +5,16 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/**
+ * 연습 1: BufferedReader 기본
+ * 연습 2: 여러 숫자 입력받기 (StringTokenizer)
+ * 연습 3: StringTokenizer (더 빠름!)
+ * 연습 4: StringBuilder (출력 최적화)
+ *
+ * ✅ BufferedReader - 빠른 입력
+ * ✅ split() vs StringTokenizer - 문자열 파싱
+ * ✅ StringBuilder - 빠른 출력
+ */
 public class InputOutput {
 
     public static void main(String[] args) throws IOException {

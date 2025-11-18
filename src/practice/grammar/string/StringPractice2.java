@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
+/**
+ * 연습 11: 문자열 분리/결합/치환
+ */
 public class StringPractice2 {
 
     /**

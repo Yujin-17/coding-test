@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
+/**
+ * 연습 7: Stack으로 괄호 검사 (실전 문제!)
+ */
 public class StackPractice2 {
 
     public static void main(String[] args) throws IOException {

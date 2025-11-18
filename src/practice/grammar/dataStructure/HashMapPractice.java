@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 /**
+ * 연습 4: HashMap 기본
+ *
  * 📚 자료구조 - HashMap
  * HashMap = 키(Key)-값(Value) 쌍으로 저장
  * 코테에서 언제 쓰나요?

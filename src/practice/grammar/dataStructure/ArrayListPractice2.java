@@ -6,6 +6,9 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
+/**
+ * 연습 2: ArrayList 추가/삭제/수정
+ */
 public class ArrayListPractice2 {
 
     /**
