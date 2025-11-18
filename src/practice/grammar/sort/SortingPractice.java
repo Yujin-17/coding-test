@@ -1,4 +1,4 @@
-package practice.grammar;
+package practice.grammar.sort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
