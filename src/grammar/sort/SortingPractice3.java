@@ -9,6 +9,19 @@ import java.util.StringTokenizer;
 
 /**
  * 연습 15: 객체 정렬 (Student 클래스 만들어서)'
+ *
+ * 숫자 비교
+ * (a, b) -> a.score - b.score  // 오름차순
+ * (a, b) -> b.score - a.score  // 내림차순
+ *
+ * 문자열 비교
+ * (a, b) -> a.name.compareTo(b.name)  // 사전순
+ *
+ * 다중 조건
+ * if (조건1 다르면) return 조건1 정렬;
+ * if (조건2 다르면) return 조건2 정렬;
+ * return 조건3 정렬;
+ * ```
  */
 public class SortingPractice3 {
 
