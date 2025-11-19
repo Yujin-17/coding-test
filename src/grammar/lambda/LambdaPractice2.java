@@ -1,4 +1,4 @@
-package grammar;
+package grammar.lambda;
 
 import java.io.BufferedReader;
 import java.io.IOException;
