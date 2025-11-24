@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.BruteForce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
