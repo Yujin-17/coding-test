@@ -11,21 +11,32 @@ The goal is to solve 1–2 problems every day and continuously improve problem-s
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 ```
 coding-test/
- ┣ README.md
- ┣ .gitignore
- ┗ src/
-    ┗ practice/
-         ┣ basic/
-         ┣ bfs/
-         ┣ greedy/
-         ┣ dp/
-         ┣ backtracking/
-         ┗ Main.java
+├── README.md
+├── .gitignore
+└── src/
+    ├── algorithm/
+    │   └── binarySearch/
+    │   └── bruteForce/
+    │   └── sorting/
+    ├── grammar/
+    │   └── dataStructure/
+    │   └── lambda/
+    │   └── sort/
+    │   └── string/
+    ├── CodeTestTemplate.java
+    ├── InputOutput.java
+    ├── Template.java
+    └── practice/
+        ├── backtracking/
+        ├── basic/
+        ├── bfs/
+        ├── dp/
+        ├── greedy/
+        └── sort/
 ```
-
 
 ---
 
