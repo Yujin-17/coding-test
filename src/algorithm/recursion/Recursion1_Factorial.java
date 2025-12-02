@@ -37,7 +37,7 @@ import java.io.InputStreamReader;
  *    = 120
  * ```
  */
-public class Recursion {
+public class Recursion1_Factorial {
 
     static StringBuilder process = new StringBuilder();
     static int depth = 0;

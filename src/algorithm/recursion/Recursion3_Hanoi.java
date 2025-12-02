@@ -26,7 +26,7 @@ import java.io.InputStreamReader;
  * }
  * ```
  */
-public class Recursion3 {
+public class Recursion3_Hanoi {
 
     static StringBuilder moves = new StringBuilder();
     static int moveCount = 0;

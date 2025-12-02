@@ -25,7 +25,7 @@ import java.io.InputStreamReader;
  * memo[n] = fib(n-1) + fib(n-2);     // 계산 후 저장
  * ```
  */
-public class Recursion2 {
+public class Recursion2_Fibonacci {
 
     static int callCount = 0;
 
