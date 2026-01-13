@@ -1,4 +1,4 @@
-package algorithm.recursion;
+package algorithm.backtracking;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -39,7 +39,7 @@ import java.util.StringTokenizer;
  *     }
  * }
  */
-public class Recursion5_Backtracking {
+public class Backtracking1_Permutation {
 
     static int[] arr;
     static int[] output;
